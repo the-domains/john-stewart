@@ -1,0 +1,29 @@
+name: John Stewart
+favicon: null
+layout_spectrum: 0.5908757920842618
+typography_spectrum: 0.5197801070753485
+title: John Stewart
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7128505925647914
+  lightness: 0.735619735205546
+  saturation: 0.261751500191167
+  rhythmicContrast: 0.541679383488372
+purpose: []
